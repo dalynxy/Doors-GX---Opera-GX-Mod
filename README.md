@@ -1,2 +1,11 @@
 # Doors-GX---Opera-GX-Mod
-I made my own Opera GX mod. Download it here!
+
+An new Opera GX Mod, including... DOORS. Welcome to Doors GX, an unofficial mod that includes tracks, wallpapers, sfx's and more!
+
+This mod contains 2 editions: 
+- Normal Edition
+- Graveyard Edition
+
+Have fun while using my mod!
+~ Micheal_
+
